@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\EAP\apiEAP\apiEAP\bin\Debug\netcoreapp2.1\apiEAP.deps.json
+C:\Users\Admin\Desktop\EAP\apiEAP\apiEAP\bin\Debug\netcoreapp2.1\apiEAP.runtimeconfig.json
+C:\Users\Admin\Desktop\EAP\apiEAP\apiEAP\bin\Debug\netcoreapp2.1\apiEAP.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\EAP\apiEAP\apiEAP\bin\Debug\netcoreapp2.1\apiEAP.dll
+C:\Users\Admin\Desktop\EAP\apiEAP\apiEAP\obj\Debug\netcoreapp2.1\apiEAP.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\EAP\apiEAP\apiEAP\obj\Debug\netcoreapp2.1\apiEAP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\EAP\apiEAP\apiEAP\obj\Debug\netcoreapp2.1\apiEAP.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\EAP\apiEAP\apiEAP\obj\Debug\netcoreapp2.1\apiEAP.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\EAP\apiEAP\apiEAP\obj\Debug\netcoreapp2.1\apiEAP.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\EAP\apiEAP\apiEAP\obj\Debug\netcoreapp2.1\apiEAP.AssemblyInfo.cs
+C:\Users\Admin\Desktop\EAP\apiEAP\apiEAP\obj\Debug\netcoreapp2.1\apiEAP.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\EAP\apiEAP\apiEAP\bin\Debug\netcoreapp2.1\apiEAP.pdb
+C:\Users\Admin\Desktop\EAP\apiEAP\apiEAP\obj\Debug\netcoreapp2.1\apiEAP.dll
+C:\Users\Admin\Desktop\EAP\apiEAP\apiEAP\obj\Debug\netcoreapp2.1\apiEAP.pdb
